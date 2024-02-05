@@ -5,7 +5,7 @@ import '../components/mystyles.css';
 function Workarea(){
     return(
         <div className="work-container">
-            WorkArea
+            WorkArea 
             </div>
     );
 }
